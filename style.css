@@ -1,0 +1,389 @@
+.box1{
+  background-color: red;
+  width: 80%;
+  height: 70px;
+  margin-left: 10%;
+}
+
+img{
+  margin-top: 5px;
+  position: absolute;
+}
+
+.container {
+  background-color: green;
+  width: 400px;
+  height: 30px;
+  margin-left: 160px;
+  margin-top: 5px;
+
+
+}
+
+ul {
+  text-align: justify;
+}
+
+li {
+  display: inline;
+  font-size: 15px;
+  font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.container2 {
+  background-color: skyblue;
+  width: 380px;
+  height: 30px;
+  margin-right: 50px;
+  margin-bottom: 80px;
+  float: right;
+}
+
+.container2 button{
+  width: 90px;
+  height: 25px;
+  color: blue;
+  background-color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+
+
+}
+
+.container3 {
+  width: 100%;
+  height: 700px;
+  background-image: url(https://www.digitalocean.com/static/bg-home-hero-3-bb4b33b77274db09b969f629ad81c4d5.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron{
+  width: 40%;
+  height: 500px;
+  background-image: url(https://www.digitalocean.com/static/bg-home-hero-3-bb4b33b77274db09b969f629ad81c4d5.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: 10%;
+  float: left;
+  margin-top: 60px;
+  text-align: left;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: white;
+
+}
+
+
+
+.rec{
+  width: 25%;
+  height: 400px;
+  background-color: white;
+  float: right;
+  margin-right: 10%;
+  margin-top: 10px;
+  color: blue;
+  border-radius: 10px;
+}
+
+.rec button{
+  width: 350px;
+  height: 50px;
+  color: white;
+  background-color: blue;
+  padding-left: 40px;
+  margin-left: 20px;
+
+}
+
+.rec h2{
+  text-align: center;
+  color: #031B4F;
+}
+
+.rec h3{
+  text-align: center;
+}
+
+
+.logos {
+  width: 100%;
+  height: 250px;
+  background-color: lightgrey;
+
+}
+
+.logos h4{
+  padding-top: 20px;
+  text-align: center;
+}
+
+.partners{
+  height: 130px;
+  width: 60%;
+  background-color: lightgrey;
+  margin-left: 20%;
+  margin-top: 50px;
+
+
+}
+
+.partners img{
+  display: inline-block;
+  position: relative;
+  margin-left: 30px;
+  background-image: grey;
+
+}
+
+
+
+
+
+.container4 {
+  width: 80%;
+  height: 550px;
+  margin-left: 10%;
+  background-color: white;
+}
+
+.deploy h2{
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: blue;
+}
+.deploy h4{
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.left {
+  width: 200px;
+  height: 100px;
+  background-color: white;
+
+
+}
+
+.left ul{
+  text-align: justify;
+}
+
+.left li{
+font-family: 'Roboto Condensed', sans-serif;
+display: grid;
+line-height: 50px;
+
+}
+.row {
+  margin-left: 30%;
+}
+
+.container5{
+  width: 100%;
+  height: 600px;
+  background-color: lightgrey;
+}
+.container5 h2 {
+  text-align: center;
+  color: blue;
+  font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.container5 h4 {
+  text-align: center;
+  color: blue;
+  font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.container5 h5{
+  text-align: center;
+  color: blue;
+  font-family: 'Roboto Condensed', sans-serif;
+  margin-bottom: 10px;
+}
+
+.jumbotron2{
+  margin-left: 30%;
+  margin-top: 5%;
+}
+
+
+.container6 {
+  width: 100%;
+  height: 300px;
+  background-color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: blue;
+
+}
+
+
+.container6 h2{
+  text-align: center;
+}
+
+.container7{
+  width: 100%;
+  height: 500px;
+  background-color: #031B4F;
+  color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.container7 h2{
+  text-align: center;
+  padding-top:80px;
+}
+
+.list1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  width: 500px;
+  height: 250px;
+  background-color: #031B4F;
+  margin-left: 10%;
+  float: left;
+}
+
+.list1 li{
+  display: grid;
+  font-size: 15px;
+
+}
+
+.list2{
+  width: 500px;
+  height: 250px;
+  background-color: #031B4F;
+  float: right;
+  margin-right: 10%;
+
+}
+
+.list2 li{
+  display: grid;
+  font-size: 15px;
+
+}
+
+.container8{
+  width: 100%;
+  height: 600px;
+  background-color: lightgrey;
+  font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+.container8 h2{
+  text-align: center;
+  color: #031B4F;
+  font-family: 'Roboto Condensed', sans-serif;
+  padding-top: 50px;
+  text-align: center;
+
+}
+
+.jumbotron3{
+width:50%;
+height: 400px;
+margin-left: 25%;
+margin-top: 50px;
+background-color: white;
+}
+
+.jumbotron3 img{
+  margin-left: 200px;
+}
+
+.jumbotron3 h4 {
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+  padding-top: 220px;
+}
+
+.jumbotron3 h5 {
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+  color:  #031B4F;
+
+}
+
+.jumbotron3 h6{
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+
+
+}
+
+.container9 {
+  width: 100%;
+  height: 250px;
+  background-color:blue;
+  color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.container9 h2 {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.container9 button{
+  width: 180px;
+  height: 40px;
+  background-color: white;
+  text-align: center;
+  margin-left: 44%;
+  border-radius: 10px;
+  margin-top: 30px;
+  color: skyblue;
+
+}
+
+.container10 {
+    width: 100%;
+    height: 500px;
+    background-color: #031B4F;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+
+
+}
+
+.social{
+
+    width: 25%;
+    height: 140px;
+    background-color: #031B4F;
+    text-align: left;
+    color: grey;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-top:  100px;
+    padding-left: 40px;
+
+  }
+
+
+  .copyright{
+  margin-top:80px;
+  }
+
+.container10 h4{
+    color:white;
+ }
+
+ .container10 h5 {
+   color: grey;
+
+ }
+
+i {
+  font-size: 30px;
+  text-align: left;
+  display: inline;
+  color: grey;
+}
